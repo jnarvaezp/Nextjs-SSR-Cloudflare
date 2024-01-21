@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "milk",
+    "tags": [
+      "white",
+      "milk"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Hot Sause",
+    "tags": [
+      "sause",
+      "hot"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "pasta",
+    "tags": [
+      "pasta",
+      "food"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "ketchup",
+    "tags": [
+      "ketchup",
+      "tomato",
+      "food"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "rice",
+    "tags": [
+      "rice",
+      "pasmati"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "beans",
+    "tags": [
+      "beans",
+      "food"
+    ]
+  }
+]
