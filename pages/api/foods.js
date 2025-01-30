@@ -1,3 +1,5 @@
+export const config = { runtime: 'edge' };
+
 import foods from "../../food.json";
 
 export default (req, res) => {
