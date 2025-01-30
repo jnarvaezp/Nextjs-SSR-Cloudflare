@@ -1,5 +1,7 @@
+
 import axios from "axios";
 import { Container, Row } from "react-bootstrap";
+export const config = { runtime: 'edge' };
 
 const fetchFood = async (id) => {
     return (await axios.get(`http://localhost:3001/api/foods?id=${encodeURIComponent(id)}`)).data;
