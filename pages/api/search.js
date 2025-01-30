@@ -1,4 +1,5 @@
 import food from "../../food.json";
+export const config = { runtime: 'edge' };
 
 export default (req, res) => {
     const filter = req.query.q ? new RegExp(req.query.q, "i") : /.*/;
